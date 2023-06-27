@@ -19,6 +19,7 @@ G. Monisha
 5.Integration and Testing: Once each module is developed, we will integrate them into a single system and perform rigorous testing to ensure that the overall system functions correctly and accurately. We will test the system on a diverse set of speech and sign language inputs, and make necessary improvements based on the results
 
 # Architecture diagram
+![Picture2](https://github.com/DHANIKSHASREE-KJ/Dhaniksha_Verbacious-Tutors/assets/110539383/d24d9578-a2f9-4e19-a4aa-8cf22880ebe0)
 
 
 # PERFORMANCE AND ANALYSIS
@@ -42,3 +43,5 @@ Overall, to ensure the success of your project, it's important to continuously e
 
 # RESULT
 # Hardware snapshot
+
+
