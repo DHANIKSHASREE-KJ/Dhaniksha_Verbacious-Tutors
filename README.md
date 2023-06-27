@@ -45,8 +45,9 @@ Overall, to ensure the success of your project, it's important to continuously e
 # Hardware snapshot
 ![Picture1](https://github.com/DHANIKSHASREE-KJ/Dhaniksha_Verbacious-Tutors/assets/110539383/461b6c4f-5c03-4b5c-afc0-04ba08f79f48)
 
+# result 1
 ![Picture3](https://github.com/DHANIKSHASREE-KJ/Dhaniksha_Verbacious-Tutors/assets/110539383/9101d77b-88a0-492c-ab63-fba8125fc907)
-
-
+# result 2
+![Picture4](https://github.com/DHANIKSHASREE-KJ/Dhaniksha_Verbacious-Tutors/assets/110539383/a21c50da-e602-454d-8bbe-3aa5d1990305)
 
 
